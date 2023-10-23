@@ -2,7 +2,7 @@
 Practica de agenda que almacena contactos
 
 
-## OBJETICO🎯
+## OBJETIVO🎯
 
 - Insertar contactos mediante formulario
 - No utillizar coockies
@@ -10,11 +10,13 @@ Practica de agenda que almacena contactos
 - Utilizar el tipo de input hidden
 - Almacenar los contactos en un array asociativo
 
-## TECHNOLOGIES 🛠
+## TECNOLOGIAS 🛠
 
--PHP 🐘
+- PHP 🐘
+- HTML 📄
+- JSON 
 
-## DESTACADO 🔂
+## DESTACADO 🔎
 
 Destacar el la codificacion en JSON que permite almacenar los datos y recuperarlos entre PHP y HTML:
 
