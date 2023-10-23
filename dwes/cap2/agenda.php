@@ -32,7 +32,7 @@
 </head>
 <body>
 
-    <form method="post" action="index.php">
+    <form method="post" action="agenda.php">
    
 
         <label>Nombre:</label>
