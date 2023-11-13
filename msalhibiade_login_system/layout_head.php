@@ -19,4 +19,3 @@ global$home_url;
 <?php include_once 'navigation.php'; ?>
 <!-- container -->
 <div class="container">
-}
