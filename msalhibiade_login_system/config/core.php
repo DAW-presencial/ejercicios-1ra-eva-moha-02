@@ -7,7 +7,7 @@ session_start();
 date_default_timezone_set('Europe/Madrid');
 // home page url
 global $home_url;
-$home_url = "http://localhost/msalhibiade_login_system/";
+$home_url = "http://msalhibiade_login_system.randion.es/dwes/msalhibiade_login_system/";
 // page given in URL parameter, default page is one
 $page = isset($_GET['page']) ? $_GET['page'] : 1;
 // set number of records per page
